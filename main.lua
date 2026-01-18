@@ -104,7 +104,7 @@ local function success()
     getgenv().ZXTY_BYPASS = true
 
     -- LOAD AIMBOT SCRIPT
-    loadstring(game:HttpGet("https://syndx-armor-script-protector.vercel.app/api/loader/e44g6tl4u4t"))()
+    loadstring(game:HttpGet(""))()
 end
 
 local function fail()
